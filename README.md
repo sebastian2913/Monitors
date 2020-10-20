@@ -1,3 +1,3 @@
 # Best monitors 
 ## 144hz
-[Link](url) and ![Image](https://mremarchant.github.io/ExampleSite/cactus.jpg)
+(https://cdn.mos.cms.futurecdn.net/tMCZyDCG2D99jWNSyvkf36-970-80.jpg)
