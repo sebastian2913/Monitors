@@ -24,3 +24,4 @@ This is the best monitor when it comes to looking for a 240hz monitor.
 #### **Connectivity**: DVI-DL / HDMI x2 / DP1.2 / headphone jack / mic jack
 #### **Weight** 8.5
 #### **Dimensions**: 373.8 x 632.5 x 63.5
+## For $549.99 https://www.amazon.com/BenQ-Response-Equalizer-Adjustable-XL2740/dp/B076PMRRKG
