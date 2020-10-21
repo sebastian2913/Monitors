@@ -13,3 +13,14 @@ This monitor is **INSANE** when it comes to a 144hz monitor. Dell really made so
 
 ## 240hz
 ![Image](https://m.media-amazon.com/images/I/61H5+4aE0mL.jpg)
+### BenQ ZOWIE XL2740
+This is the best monitor when it comes to looking for a 240hz monitor. 
+#### **Size**: 17"
+#### **Resolution**: 1920 x 2080
+#### ** Pannel Type**: TN
+#### **Aspect Ratio**: 16:9
+#### **Responce Time**: 1ms
+#### **Brightness**: 320cd/m²
+#### **Connectivity**: DVI-DL / HDMI x2 / DP1.2 / headphone jack / mic jack
+#### **Weight** 8.5
+#### **Dimensions**: 373.8 x 632.5 x 63.5
