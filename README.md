@@ -11,7 +11,11 @@ This monitor is **INSANE** when it comes to a 144hz monitor. Dell really made so
 #### **Weight** 16.82
 #### **Dimensions**: 27.9″ x 18.5″ x 9.8″
 #### 
-#### #### 
-#### #### 
-#### #### 
+ 
+  
+   
+    
+     
+      
+       
 ## 240hz
