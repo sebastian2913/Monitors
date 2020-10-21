@@ -10,7 +10,7 @@ This monitor is **INSANE** when it comes to a 144hz monitor. Dell really made so
 #### **Connectivity**: DisplayPort 1.4x 1, HDMI 0 x 2, USB 3.0 x 4, 3.5mm Jack x 2
 #### **Weight** 16.82
 #### **Dimensions**: 27.9″ x 18.5″ x 9.8″
-
+### For $459.99 https://www.dell.com/en-us/shop/dell-32-curved-gaming-monitor-s3220dgf/apd/210-atyt/monitors-monitor-accessories?gacd=9614064-1014-5761040-266794588-0&dgc=st&&gclid=CjwKCAjwlbr8BRA0EiwAnt4MTu_NvNFVqlQCUKUgIWaYTFIrJiigxP_1u8Rox5omQZJY1niT1HJFlhoCgQEQAvD_BwE&gclsrc=aw.ds
 ## 240hz
 ![Image](https://m.media-amazon.com/images/I/61H5+4aE0mL.jpg)
 ### BenQ ZOWIE XL2740
@@ -24,4 +24,4 @@ This is the best monitor when it comes to looking for a 240hz monitor.
 #### **Connectivity**: DVI-DL / HDMI x2 / DP1.2 / headphone jack / mic jack
 #### **Weight** 8.5
 #### **Dimensions**: 373.8 x 632.5 x 63.5
-## For $549.99 https://www.amazon.com/BenQ-Response-Equalizer-Adjustable-XL2740/dp/B076PMRRKG
+### For $549.99 https://www.amazon.com/BenQ-Response-Equalizer-Adjustable-XL2740/dp/B076PMRRKG
